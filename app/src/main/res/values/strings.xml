@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iSearch</string>
+    <string name="description">Visual Search APP, Upload or take a snap to start searching.</string>
+    <string name="title_home">Home</string>
+    <string name="title_capturePhoto">Capture</string>
+    <string name="title_uploadImage">Upload</string>
+</resources>
